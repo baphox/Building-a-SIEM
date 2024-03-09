@@ -67,13 +67,13 @@ Let's click that!
 Server address: *the ip of the server*
 Agent name: *whatever you want to call it*
 
-<img src="https://i.imgur.com/pu7dSvC.png" alt="Wazuh Deploy Agent Step 2">
+<img src="https://i.imgur.com/UCDvCdc.png" alt="Wazuh Deploy Agent Step 2">
 
 And you should see some commands down below
 We copy that and use Powershell in order to install the agent
 Make sure you run Powershell as Administrator
 
-<img src="https://i.imgur.com/UCDvCdc.png" alt="Wazuh Deploy Agent Step 3">
+<img src="https://i.imgur.com/rXmJNNE.png" alt="Wazuh Deploy Agent Step 3">
 
 # Deploy Agent on Wazuh using Linux
 
