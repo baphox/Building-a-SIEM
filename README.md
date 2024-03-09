@@ -42,6 +42,21 @@ Extract Wazuh Credentials
 sudo tar -xvf wazuh-install-files.tar
 ```
 
+Now we need the Wazuh Credentials
+```
+ls
+```
+```
+cd wazuh-install-files/
+```
+```
+ls
+```
+```
+cat wazuh-passwords.txt
+```
+<img src="https://i.imgur.com/H9OdKD7.png" alt="Wazuh Credentials">
+
 # Monitoring and Logging
 
 Set up monitoring and logging tools to track the performance and health of your home lab environment. Tools like Prometheus, Grafana, and ELK stack provide insights into system behavior and performance.
