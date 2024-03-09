@@ -57,14 +57,12 @@ cat wazuh-passwords.txt
 ```
 <img src="https://i.imgur.com/H9OdKD7.png" alt="Wazuh Credentials">
 
-# Deploy Agent on Wazuh
+# Deploy Agent on Wazuh using Windows
 
 Once we login to our Wazuh Dashboard using our Credentials we can see on the left corner the Add Agent button
 <img src="https://i.imgur.com/Pl5YuFz.png" alt="Wazuh Deploy Agent Step 1">
 
 Let's click that!
-
-I use Windows as my main OS.
 
 Server address: *the ip of the server*
 Agent name: *whatever you want to call it*
@@ -77,10 +75,8 @@ Make sure you run Powershell as Administrator
 
 <img src="https://i.imgur.com/szAFpz4.png" alt="Wazuh Deploy Agent Step 3">
 
-# Security Measures
+# Deploy Agent on Wazuh using Linux
 
-Implement security measures to protect your home lab environment. Configure firewalls, set up VPNs, use strong passwords, and keep software updated to safeguard against unauthorized access and threats.
+# Deploy Agent on Wazuh using macOS
 
-# Backup and Recovery
 
-Implement backup and recovery solutions to prevent data loss. Regularly backup your data and test the restoration process to ensure it functions as expected in case of hardware failure or system crashes.
