@@ -73,7 +73,7 @@ And you should see some commands down below
 We copy that and use Powershell in order to install the agent
 Make sure you run Powershell as Administrator
 
-<img src="https://i.imgur.com/YHn7rqL.png" alt="Wazuh Deploy Agent Step 3">
+<img src="https://i.imgur.com/UCDvCdc.png" alt="Wazuh Deploy Agent Step 3">
 
 # Deploy Agent on Wazuh using Linux
 
