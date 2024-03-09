@@ -31,10 +31,13 @@ The primary objective of building a Security Information and Event Management (S
 <img src="https://i.imgur.com/gH9vmMf.png" alt="Creating a Firewall Step 3">
 <img src="https://i.imgur.com/2rUs3Vh.png" alt="Creating a Firewall Step 4">
 
-# Install Operating Systems
+# Install Wazuh
 
-Install the required operating systems on your virtual or physical machines. Choose from Linux distributions like Ubuntu, CentOS, or Debian, or Windows Server, depending on your project's needs.
+Install Wazuh 4.7
+curl -sO https://packages.wazuh.com/4.7/wazuh-install.sh && sudo bash ./wazuh-install.sh -a
 
+Extract Wazuh Credentials
+sudo tar -xvf wazuh-install-files.tar
 
 # Monitoring and Logging
 
