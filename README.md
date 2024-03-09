@@ -10,9 +10,9 @@ The primary objective of building a Security Information and Event Management (S
 
 # System Requirements
 
-|     Agents     |               CPU               |     RAM       |     Agents     |
-|     1-25     |               4 vCPU               |     8GiB       |     Agents     |
-
+|     Agents     |                 CPU                |     RAM       |      Storage (90days)       |
+| --------------- | ------------------------------------- | --------------- | --------------- |
+|       Building a Home Network          |                                       |     Cisco Packet Tracer            |                 |
 
 # Creating a new server for installation
 
