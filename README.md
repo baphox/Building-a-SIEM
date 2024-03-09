@@ -12,7 +12,7 @@ The primary objective of building a Security Information and Event Management (S
 
 |     Agents     |                 CPU                |     RAM       |      Storage (90days)       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
-|       Building a Home Network          |                                       |     Cisco Packet Tracer            |                 |
+|       1-25          |                4 vCPU                       |     8 GiB           |       50 GB          |
 
 # Creating a new server for installation
 
