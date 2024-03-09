@@ -13,6 +13,8 @@ The primary objective of building a Security Information and Event Management (S
 |     Agents     |                 CPU                |     RAM       |      Storage (90days)       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
 |       1-25          |                4 vCPU                       |     8 GiB           |       50 GB          |
+|       25-50          |                8 vCPU                       |     8 GiB           |       100 GB          |
+|       50-100          |                8 vCPU                       |     8 GiB           |       200 GB          |
 
 # Creating a new server for installation
 
