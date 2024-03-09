@@ -8,7 +8,13 @@ The primary objective of building a Security Information and Event Management (S
 
 <img src="https://i.imgur.com/VtnkAJu.png" alt="Wazuh Automation Diagram 1">
 
-# Install Wazuh through VPS
+# System Requirements
+
+|     Agents     |               CPU               |     RAM       |     Agents     |
+|     1-25     |               4 vCPU               |     8GiB       |     Agents     |
+
+
+# Creating a new server for installation
 
 <img src="https://i.imgur.com/6XrGaMb.png" alt="Creating a droplet for Wazuh Step 1">
 <img src="https://i.imgur.com/1N4aPUk.png" alt="Creating a droplet for Wazuh Step 2">
