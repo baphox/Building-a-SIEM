@@ -10,7 +10,7 @@ The primary objective of building a Security Information and Event Management (S
 
 # Install Wazuh through VPS
 
-<img src="https://i.imgur.com/VtnkAJu.png" alt="Creating a droplet for Wazuh Step 1">
+<img src="https://i.imgur.com/6XrGaMb.png" alt="Creating a droplet for Wazuh Step 1">
 <img src="https://i.imgur.com/1N4aPUk.png" alt="Creating a droplet for Wazuh Step 2">
 <img src="https://i.imgur.com/uY8vFkM.png" alt="Creating a droplet for Wazuh Step 3">
 <img src="https://i.imgur.com/Guf0VP2.png" alt="Creating a droplet for Wazuh Step 4">
@@ -20,8 +20,8 @@ The primary objective of building a Security Information and Event Management (S
 
 <img src="https://i.imgur.com/peOlIw1.png" alt="Creating a Firewall Step 1">
 <img src="https://i.imgur.com/l2lptyM.png" alt="Creating a Firewall Step 2">
-<img src="blob:https://imgur.com/3eeede6e-edeb-4c3d-97bd-8d2e5d1e857c" alt="Creating a Firewall Step 3">
-<img src="blob:https://imgur.com/a48dbed2-fcce-4cc5-87e1-88a1337ff882" alt="Creating a Firewall Step 4">
+<img src="https://i.imgur.com/gH9vmMf.png" alt="Creating a Firewall Step 3">
+<img src="https://i.imgur.com/2rUs3Vh.png" alt="Creating a Firewall Step 4">
 
 # Install Operating Systems
 
