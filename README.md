@@ -57,9 +57,25 @@ cat wazuh-passwords.txt
 ```
 <img src="https://i.imgur.com/H9OdKD7.png" alt="Wazuh Credentials">
 
-# Monitoring and Logging
+# Deploy Agent on Wazuh
 
-Set up monitoring and logging tools to track the performance and health of your home lab environment. Tools like Prometheus, Grafana, and ELK stack provide insights into system behavior and performance.
+Once we login to our Wazuh Dashboard using our Credentials we can see on the left corner the Add Agent button
+<img src="https://i.imgur.com/Pl5YuFz.png" alt="Wazuh Deploy Agent Step 1">
+
+Let's click that!
+
+I use Windows as my main OS.
+
+Server address: *the ip of the server*
+Agent name: *whatever you want to call it*
+
+<img src="https://i.imgur.com/pu7dSvC.png" alt="Wazuh Deploy Agent Step 2">
+
+And you should see some commands down below
+We copy that and use Powershell in order to install the agent
+Make sure you run Powershell as Administrator
+
+<img src="https://i.imgur.com/szAFpz4.png" alt="Wazuh Deploy Agent Step 3">
 
 # Security Measures
 
