@@ -34,10 +34,13 @@ The primary objective of building a Security Information and Event Management (S
 # Install Wazuh
 
 Install Wazuh 4.7
+```
 curl -sO https://packages.wazuh.com/4.7/wazuh-install.sh && sudo bash ./wazuh-install.sh -a
-
+```
 Extract Wazuh Credentials
+```
 sudo tar -xvf wazuh-install-files.tar
+```
 
 # Monitoring and Logging
 
