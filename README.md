@@ -8,13 +8,20 @@ The primary objective of building a Security Information and Event Management (S
 
 <img src="https://i.imgur.com/VtnkAJu.png" alt="Wazuh Automation Diagram 1">
 
-# Select Hardware
+# Install Wazuh through VPS
 
-Choose hardware components based on your project's requirements. This may include servers, computers, networking devices, and storage solutions. Select hardware that aligns with your project's scale and complexity.
+<img src="https://i.imgur.com/VtnkAJu.png" alt="Creating a droplet for Wazuh Step 1">
+<img src="https://i.imgur.com/1N4aPUk.png" alt="Creating a droplet for Wazuh Step 2">
+<img src="https://i.imgur.com/uY8vFkM.png" alt="Creating a droplet for Wazuh Step 3">
+<img src="https://i.imgur.com/Guf0VP2.png" alt="Creating a droplet for Wazuh Step 4">
+<img src="https://i.imgur.com/Xbq43XO.png" alt="Creating a droplet for Wazuh Step 5">
 
-# Set Up Virtualization
+# Creating Firewall
 
-Consider using virtualization software such as VirtualBox, VMware, or Hyper-V. Virtual machines allow you to test different configurations and environments within your home lab.
+<img src="https://i.imgur.com/peOlIw1.png" alt="Creating a Firewall Step 1">
+<img src="https://i.imgur.com/l2lptyM.png" alt="Creating a Firewall Step 2">
+<img src="blob:https://imgur.com/3eeede6e-edeb-4c3d-97bd-8d2e5d1e857c" alt="Creating a Firewall Step 3">
+<img src="blob:https://imgur.com/a48dbed2-fcce-4cc5-87e1-88a1337ff882" alt="Creating a Firewall Step 4">
 
 # Install Operating Systems
 
