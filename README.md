@@ -1,12 +1,12 @@
-## Setting Up a Home Lab
+## Building a SIEM
 
-# Introduction
+# Objective
 
-In this guide, we'll walk through the process of setting up a home lab. A home lab provides a controlled environment where you can develop, test, and deploy your project with ease. 
+The primary objective of building a Security Information and Event Management (SIEM) system is to enhance an organization's ability to detect, respond to, and mitigate cybersecurity threats effectively. 
 
-# Define Requirements
+# Diagram
 
-Before diving into setup, clearly define your project's requirements. Consider hardware, software, and networking needs. Understanding these aspects will guide your setup process effectively.
+<img src="https://i.imgur.com/VtnkAJu.png" alt="Wazuh Automation Diagram 1">
 
 # Select Hardware
 
